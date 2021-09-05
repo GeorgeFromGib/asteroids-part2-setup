@@ -20,6 +20,7 @@ export enum Keys {
 }
 
 export class AsteroidsGame {
+  // Class variables
   screenSize:ScreenSize;
   settings:ISettings;
   configData:typeof ConfigData;
